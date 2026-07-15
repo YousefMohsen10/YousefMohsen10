@@ -11,28 +11,37 @@ Passionate about building modern, responsive, and user-friendly web applications
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer
-- 🌱 Currently learning Advanced React & Node.js
-- 🚀 Interested in Web Development and Problem Solving
+- 🌱 Currently learning **Advanced React** & **Node.js**
+- 🚀 Interested in **Web Development** and **Problem Solving**
+- 📫 Reach me at **yousefmohsen0110@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,python,git,github,vscode" />
 </p>
 
 ---
 
-## 📫 Contact
-
-- 📧 yousefmohsen0110@gmail.com
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YousefMohsen10&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefMohsen10&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YousefMohsen10&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefMohsen10&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-⭐ Thanks for visiting my profile!
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YousefMohsen10&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
