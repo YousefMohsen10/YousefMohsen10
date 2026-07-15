@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Yousef Mohsen
 
-<!--
-**YousefMohsen10/YousefMohsen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Python
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Node.js
+- Data Structures & Algorithms
+
+---
+
+## 📫 Contact
+
+📧 yousefmohsen0110@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
