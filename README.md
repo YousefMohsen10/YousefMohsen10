@@ -25,15 +25,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YousefMohsen10&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefMohsen10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
