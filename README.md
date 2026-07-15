@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Yousef Mohsen</h1>
 
 <h3 align="center">Frontend Developer from Egypt 🇪🇬</h3>
@@ -6,13 +7,17 @@
 Passionate about building modern, responsive, and user-friendly web applications.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;C%2B%2B+Programmer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer
 - 🌱 Currently learning **Advanced React** & **Node.js**
-- 🚀 Interested in **Web Development** and **Problem Solving**
+- 🚀 Interested in **Web Development**, **Problem Solving**, and **Open Source**
 - 📫 Reach me at **yousefmohsen0110@gmail.com**
 
 ---
@@ -28,7 +33,39 @@ Passionate about building modern, responsive, and user-friendly web applications
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YousefMohsen10&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YousefMohsen10&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YousefMohsen10&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:yousefmohsen0110@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yousef-mohsen-701751395/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/YousefMo7sen">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousefMohsen10&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -36,3 +73,4 @@ Passionate about building modern, responsive, and user-friendly web applications
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+```
